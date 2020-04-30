@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="tomcat-api">
+    <CLASSES>
+      <root url="jar://G:/apache-tomcat-9.0.29/lib/servlet-api.jar!/" />
+      <root url="jar://C:/Program Files/Java/jre1.8.0_231/lib/ext/mysql-connector-java-8.0.16.jar!/" />
+      <root url="jar://G:/apache-tomcat-9.0.29/lib/commons-fileupload-1.3.jar!/" />
+      <root url="jar://G:/apache-tomcat-9.0.29/lib/commons-io-2.6.jar!/" />
+      <root url="file://G:/apache-tomcat-9.0.29/lib" />
+      <root url="jar://G:/apache-tomcat-9.0.29/lib/commons-beanutils-1.7.0.jar!/" />
+      <root url="jar://G:/apache-tomcat-9.0.29/lib/commons-collections-3.1.jar!/" />
+      <root url="jar://G:/apache-tomcat-9.0.29/lib/commons-lang-2.5.jar!/" />
+      <root url="jar://G:/apache-tomcat-9.0.29/lib/commons-logging.jar!/" />
+      <root url="jar://G:/apache-tomcat-9.0.29/lib/ezmorph-1.0.3.jar!/" />
+      <root url="jar://G:/apache-tomcat-9.0.29/lib/json-lib-2.4-jdk15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://G:/apache-tomcat-9.0.29/lib" recursive="false" />
+  </library>
+</component>
